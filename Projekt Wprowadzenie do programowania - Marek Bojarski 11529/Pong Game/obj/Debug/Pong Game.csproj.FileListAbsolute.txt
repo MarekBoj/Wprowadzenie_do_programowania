@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Pong Game\Pong Game\bin\Debug\Pong Game.exe.config
+C:\Users\Admin\source\repos\Pong Game\Pong Game\bin\Debug\Pong Game.exe
+C:\Users\Admin\source\repos\Pong Game\Pong Game\bin\Debug\Pong Game.pdb
+C:\Users\Admin\source\repos\Pong Game\Pong Game\bin\Debug\en-150\Pong Game.resources.dll
+C:\Users\Admin\source\repos\Pong Game\Pong Game\obj\Debug\Pong Game.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Pong Game\Pong Game\obj\Debug\Pong_Game.Properties.Resources.resources
+C:\Users\Admin\source\repos\Pong Game\Pong Game\obj\Debug\Pong Game.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Pong Game\Pong Game\obj\Debug\Pong Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pong Game\Pong Game\obj\Debug\en-150\Pong Game.resources.dll
+C:\Users\Admin\source\repos\Pong Game\Pong Game\obj\Debug\Pong Game.exe
+C:\Users\Admin\source\repos\Pong Game\Pong Game\obj\Debug\Pong Game.pdb
+C:\Users\Admin\source\repos\Pong Game\Pong Game\obj\Debug\Pong_Game.PongWindow.resources
+C:\Users\Admin\source\repos\Pong Game\Pong Game\obj\Debug\Pong_Game.PongWindow.en-150.resources
